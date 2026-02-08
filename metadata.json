@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SAT Math Hero: Gianfranco 2025",
+  "description": "An interactive voice-powered tutor designed for the Digital SAT 2025/2026, helping Gianfranco master Mathematics through real-time conversation and step-by-step guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
